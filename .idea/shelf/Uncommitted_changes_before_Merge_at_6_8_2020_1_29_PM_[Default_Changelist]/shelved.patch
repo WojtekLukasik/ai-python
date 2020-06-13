@@ -1,0 +1,561 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"828778c9-9d97-422f-a727-18ddbd059b85\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Assiging/datadict.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Assiging/feature_hashing.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Assiging/feature_hashing.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/data.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1blUxWbA3VMjMFjk8gUnLGMgAoU\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"restartRequiresConfirmation\" value=\"false\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.feature_hashing\">\r\n    <configuration name=\"board\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"wozek\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/board.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"feature_hashing\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"wozek\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Assiging\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Assiging/feature_hashing.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"wozek\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Python.board\" />\r\n      <item itemvalue=\"Python.main\" />\r\n      <item itemvalue=\"Python.feature_hashing\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.feature_hashing\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.board\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"828778c9-9d97-422f-a727-18ddbd059b85\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1589206421672</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1589206421672</updated>\r\n      <workItem from=\"1589206439279\" duration=\"11691000\" />\r\n      <workItem from=\"1589233530634\" duration=\"769000\" />\r\n      <workItem from=\"1589543001064\" duration=\"78000\" />\r\n      <workItem from=\"1589543305930\" duration=\"10474000\" />\r\n      <workItem from=\"1589561555146\" duration=\"3374000\" />\r\n      <workItem from=\"1589745328635\" duration=\"27000\" />\r\n      <workItem from=\"1589745409339\" duration=\"739000\" />\r\n      <workItem from=\"1589752301424\" duration=\"1007000\" />\r\n      <workItem from=\"1589753322316\" duration=\"835000\" />\r\n      <workItem from=\"1589814601057\" duration=\"4208000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"create Shelf\">\r\n      <created>1589815443652</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1589815443652</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"create addShelf method in Field class\">\r\n      <created>1589816028640</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1589816028640</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"changed CreateDataSweets to lowercase\">\r\n      <created>1589822196451</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1589822196451</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"COLUMN_ORDER\" />\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"create Shelf\" />\r\n    <MESSAGE value=\"create addShelf method in Field class\" />\r\n    <MESSAGE value=\"changed CreateDataSweets to lowercase\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"changed CreateDataSweets to lowercase\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/AL_2020$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1589754127142\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/AL_2020$feature_hashing.coverage\" NAME=\"feature_hashing Coverage Results\" MODIFIED=\"1589823737949\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Assiging\" />\r\n    <SUITE FILE_PATH=\"coverage/wozek$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1589556038208\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/wozek$board.coverage\" NAME=\"board Coverage Results\" MODIFIED=\"1589210811600\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 0630d99a4804666953d2e82f51c110d0471cd610)
++++ .idea/workspace.xml	(date 1591615704665)
+@@ -1,13 +1,71 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="BRANCH:origin/assigning" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="828778c9-9d97-422f-a727-18ddbd059b85" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/Assiging/datadict.py" afterDir="false" />
++    <list default="true" id="828778c9-9d97-422f-a727-18ddbd059b85" name="Default Changelist" comment="detecting digits">
++      <change afterPath="$PROJECT_DIR$/coder/55555.jpg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/processed/test.pt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/processed/training.pt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAIN_SET/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/model.pt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/model.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/coder/nn_model.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Assiging/feature_hashing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assiging/feature_hashing.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/517.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TESTSET/MNIST/processed/test.pt" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TESTSET/MNIST/processed/test.pt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TESTSET/MNIST/processed/training.pt" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TESTSET/MNIST/processed/training.pt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/processed/test.pt" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/processed/test.pt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/processed/training.pt" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/processed/training.pt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/t10k-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/t10k-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/PATH_TO_STORE_TRAINSET/MNIST/raw/train-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/coder/PATH_TO_STORE_TEST_SET/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/barcode.jpg" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/dataset/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/coder/dataset/test.csv" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/dataset/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/coder/dataset/train.csv" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/digit_reco_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/coder/digit_reco_model.pt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/digits_recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/coder/digits_recognizer.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/coder/image.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/rocognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/coder/rocognizer.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/test1.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/test2.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/coder/test3.png" beforeDir="false" />
+     </list>
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -21,6 +79,19 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <favorite-branches>
++      <branch-storage>
++        <map>
++          <entry type="REMOTE">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="origin/assigning" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </favorite-branches>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="master" />
+@@ -32,27 +103,28 @@
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
+   <component name="PropertiesComponent">
++    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/coder" />
+     <property name="restartRequiresConfirmation" value="false" />
+     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+   </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\Pawel Lukaszewicz\PycharmProjects\AL-2020\coder" />
++      <recent name="C:\Users\Pawel Lukaszewicz\PycharmProjects\AL-2020\coder\dataset" />
++    </key>
+   </component>
+-  <component name="RunManager" selected="Python.feature_hashing">
+-    <configuration name="board" type="PythonConfigurationType" factoryName="Python" temporary="true">
++  <component name="RunManager" selected="Python.rocognizer">
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+       <module name="wozek" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -60,21 +132,43 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="digits_recognizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="wozek" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/board.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder/digits_recognizer.py" />
+       <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+       <option name="MODULE_MODE" value="false" />
+       <option name="REDIRECT_INPUT" value="false" />
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="feature_hashing" type="PythonConfigurationType" factoryName="Python" temporary="true">
++    <configuration name="image (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="wozek" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -82,21 +176,21 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assiging" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assiging/feature_hashing.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder/image.py" />
+       <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+       <option name="MODULE_MODE" value="false" />
+       <option name="REDIRECT_INPUT" value="false" />
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
++    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="wozek" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -104,14 +198,55 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder/model.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="rocognizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="wozek" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder/rocognizer.py" />
+       <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="tescik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="wozek" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coder" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coder/tescik.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="true" />
+       <option name="EMULATE_TERMINAL" value="false" />
+       <option name="MODULE_MODE" value="false" />
+       <option name="REDIRECT_INPUT" value="false" />
+@@ -119,15 +254,19 @@
+       <method v="2" />
+     </configuration>
+     <list>
+-      <item itemvalue="Python.board" />
+-      <item itemvalue="Python.main" />
+-      <item itemvalue="Python.feature_hashing" />
++      <item itemvalue="Python.rocognizer" />
++      <item itemvalue="Python.digits_recognizer" />
++      <item itemvalue="Python.image (1)" />
++      <item itemvalue="Python.model" />
++      <item itemvalue="Python.tescik" />
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.feature_hashing" />
+-        <item itemvalue="Python.main" />
+-        <item itemvalue="Python.board" />
++        <item itemvalue="Python.rocognizer" />
++        <item itemvalue="Python.tescik" />
++        <item itemvalue="Python.model" />
++        <item itemvalue="Python.digits_recognizer" />
++        <item itemvalue="Python.image (1)" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -151,6 +290,35 @@
+       <workItem from="1589752301424" duration="1007000" />
+       <workItem from="1589753322316" duration="835000" />
+       <workItem from="1589814601057" duration="4208000" />
++      <workItem from="1589844260514" duration="777000" />
++      <workItem from="1589845066174" duration="177000" />
++      <workItem from="1589888090669" duration="27128000" />
++      <workItem from="1590140903263" duration="211000" />
++      <workItem from="1590179245978" duration="6655000" />
++      <workItem from="1590230578314" duration="1895000" />
++      <workItem from="1590235510565" duration="925000" />
++      <workItem from="1590340739871" duration="8052000" />
++      <workItem from="1590359007619" duration="127000" />
++      <workItem from="1590409526059" duration="4922000" />
++      <workItem from="1590423569728" duration="2532000" />
++      <workItem from="1590436739719" duration="6325000" />
++      <workItem from="1590443664804" duration="2943000" />
++      <workItem from="1590497613517" duration="6041000" />
++      <workItem from="1590518246722" duration="12616000" />
++      <workItem from="1590559069326" duration="13892000" />
++      <workItem from="1590575699320" duration="792000" />
++      <workItem from="1590766924835" duration="10060000" />
++      <workItem from="1590929874289" duration="7728000" />
++      <workItem from="1590938377522" duration="176000" />
++      <workItem from="1590944305590" duration="10043000" />
++      <workItem from="1590961284964" duration="2253000" />
++      <workItem from="1591008066071" duration="12088000" />
++      <workItem from="1591035169869" duration="618000" />
++      <workItem from="1591043444436" duration="1048000" />
++      <workItem from="1591111427048" duration="1041000" />
++      <workItem from="1591112695695" duration="1110000" />
++      <workItem from="1591113830067" duration="8945000" />
++      <workItem from="1591124808042" duration="2910000" />
+     </task>
+     <task id="LOCAL-00001" summary="create Shelf">
+       <created>1589815443652</created>
+@@ -173,11 +341,102 @@
+       <option name="project" value="LOCAL" />
+       <updated>1589822196451</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="train.py">
++      <created>1589918562733</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1589918562733</updated>
++    </task>
++    <task id="LOCAL-00005" summary="img to 1d array">
++      <created>1589952733192</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1589952733192</updated>
++    </task>
++    <task id="LOCAL-00006" summary="fun created">
++      <created>1589952979012</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1589952979012</updated>
++    </task>
++    <task id="LOCAL-00007" summary="recognizing but training must be improved">
++      <created>1589955873104</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1589955873104</updated>
++    </task>
++    <task id="LOCAL-00008" summary="zwiekszenie dokladnosci">
++      <created>1589964526485</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1589964526485</updated>
++    </task>
++    <task id="LOCAL-00009" summary="finding barcode">
++      <created>1589967955430</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1589967955430</updated>
++    </task>
++    <task id="LOCAL-00010" summary="po">
++      <created>1589972251988</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1589972251988</updated>
++    </task>
++    <task id="LOCAL-00011" summary="new dataset">
++      <created>1590359074952</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1590359074952</updated>
++    </task>
++    <task id="LOCAL-00012" summary="going to pytorch on conda eve">
++      <created>1590447313737</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1590447313737</updated>
++    </task>
++    <task id="LOCAL-00013" summary="add coder.py">
++      <created>1590538529471</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1590538529471</updated>
++    </task>
++    <task id="LOCAL-00014" summary="detecting digits">
++      <created>1590846768877</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1590846768877</updated>
++    </task>
++    <task id="LOCAL-00015" summary="img is cropped and transformed to torch">
++      <created>1590938465634</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1590938465634</updated>
++    </task>
++    <task id="LOCAL-00016" summary="new tests">
++      <created>1590963692385</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1590963692385</updated>
++    </task>
++    <option name="localTasksCounter" value="17" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
++    <option name="version" value="2" />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+@@ -185,23 +444,107 @@
+         <entry key="MAIN">
+           <value>
+             <State>
+-              <option name="COLUMN_ORDER" />
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/assigning" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
+             </State>
+           </value>
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="create Shelf" />
+     <MESSAGE value="create addShelf method in Field class" />
+     <MESSAGE value="changed CreateDataSweets to lowercase" />
+-    <option name="LAST_COMMIT_MESSAGE" value="changed CreateDataSweets to lowercase" />
++    <MESSAGE value="train.py" />
++    <MESSAGE value="img to 1d array" />
++    <MESSAGE value="fun created" />
++    <MESSAGE value="recognizing but training must be improved" />
++    <MESSAGE value="zwiekszenie dokladnosci" />
++    <MESSAGE value="finding barcode" />
++    <MESSAGE value="po" />
++    <MESSAGE value="new dataset" />
++    <MESSAGE value="going to pytorch on conda eve" />
++    <MESSAGE value="add coder.py" />
++    <MESSAGE value="detecting digits" />
++    <MESSAGE value="img is cropped and transformed to torch" />
++    <MESSAGE value="new tests" />
++    <option name="LAST_COMMIT_MESSAGE" value="new tests" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591117361907">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591117361907" />
++    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591113556580">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591113556580" />
++    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590962272315">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590962272315" />
++    <state width="724" height="264" key="GridCell.Tab.0.bottom" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.0.center" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.0.left" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.0.right" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.1.bottom" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.1.center" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.1.left" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state width="724" height="264" key="GridCell.Tab.1.right" timestamp="1591028610371">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="724" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591028610371" />
++    <state x="277" y="57" key="SettingsEditor" timestamp="1590443566792">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590443566792" />
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590963699596">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590963699596" />
++    <state x="54" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590930912296">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="54" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590930912296" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/AL_2020$main.coverage" NAME="main Coverage Results" MODIFIED="1589754127142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/AL_2020$feature_hashing.coverage" NAME="feature_hashing Coverage Results" MODIFIED="1589823737949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assiging" />
+     <SUITE FILE_PATH="coverage/wozek$main.coverage" NAME="main Coverage Results" MODIFIED="1589556038208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/AL_2020$digits_recognizer.coverage" NAME="digits_recognizer Coverage Results" MODIFIED="1591028603228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coder" />
++    <SUITE FILE_PATH="coverage/AL_2020$main.coverage" NAME="main Coverage Results" MODIFIED="1589845236495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/wozek$board.coverage" NAME="board Coverage Results" MODIFIED="1589210811600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+   </component>
+ </project>
+\ No newline at end of file

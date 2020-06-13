@@ -1,0 +1,44 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_6_8_2020_1_28_PM_[Default_Changelist]" date="1591615711686" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_8_2020_1_28_PM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 6/8/2020 1:28 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/train-images-idx3-ubyte.gz" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/train-labels-idx1-ubyte" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/t10k-images-idx3-ubyte" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/train-images-idx3-ubyte" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/t10k-images-idx3-ubyte.gz" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/train-labels-idx1-ubyte.gz" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/t10k-labels-idx1-ubyte" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="coder/PATH_TO_STORE_TESTSET/MNIST/raw/t10k-labels-idx1-ubyte.gz" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
